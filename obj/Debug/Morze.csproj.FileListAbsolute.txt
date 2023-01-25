@@ -1,0 +1,11 @@
+C:\Users\spark\source\repos\Morze\bin\Debug\Morze.exe.config
+C:\Users\spark\source\repos\Morze\bin\Debug\Morze.exe
+C:\Users\spark\source\repos\Morze\bin\Debug\Morze.pdb
+C:\Users\spark\source\repos\Morze\obj\Debug\Morze.csproj.AssemblyReference.cache
+C:\Users\spark\source\repos\Morze\obj\Debug\Morze.csproj.SuggestedBindingRedirects.cache
+C:\Users\spark\source\repos\Morze\obj\Debug\Morze.Form1.resources
+C:\Users\spark\source\repos\Morze\obj\Debug\Morze.Properties.Resources.resources
+C:\Users\spark\source\repos\Morze\obj\Debug\Morze.csproj.GenerateResource.cache
+C:\Users\spark\source\repos\Morze\obj\Debug\Morze.csproj.CoreCompileInputs.cache
+C:\Users\spark\source\repos\Morze\obj\Debug\Morze.exe
+C:\Users\spark\source\repos\Morze\obj\Debug\Morze.pdb
