@@ -1,0 +1,2 @@
+# MorzeTranslator
+Morse code is a method of sending text messages using a series of on-off tones, lights, or clicks that correspond to the letters, numbers, and punctuation of a given message. A Morse translator is a device or software program that can translate text into Morse code and vice versa. It is used for communication between people who cannot read or write in the same language. Morse translators are commonly used in amateur radio and other forms of communication.
